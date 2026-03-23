@@ -1,0 +1,3 @@
+Model,RMSE,MAE
+OLS,2.3239,1.9222
+Bayesian(rstanarm,2.3212,1.9255
